@@ -38,5 +38,5 @@ func main() {
 	}
 
 	tiempoPaso := time.Since(inicio)
-	fmt.Println("Tiempo de ejecucion:", tiempoPaso)
+	fmt.Println("Tiempo de ejecucion", tiempoPaso)
 }
